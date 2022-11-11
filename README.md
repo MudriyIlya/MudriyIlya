@@ -1,4 +1,4 @@
-### Hi there, I'm [Ilya Mudriy][instagram] 👋
+### Hi there, I'm [Ilya][instagram] 👋
 
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning how to be cool developer 😺
