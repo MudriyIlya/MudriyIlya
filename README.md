@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning how to be cool developer 😺
-- 💞️ I’m looking to collaborate with other iOS Developers
+- 🤝🏻 I’m looking to collaborate with other iOS Developers
 
 #### Connect with me:
 <!-- [<img align="left" alt="mudriyilya | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
