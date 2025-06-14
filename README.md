@@ -1,28 +1,31 @@
-### Hi there, I'm [Ilya][instagram] 👋
+# Hi there, I'm Ilya 👋
 
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning how to be cool developer 😺
-- 🤝🏻 I’m looking to collaborate with other iOS Developers
+### 👀 About Me:
+🤓 I’m interested in iOS Development</br>
+🌱 I’m currently learning how to contribute in open source</br>
+🤝🏻 I’m looking to collaborate with other Developers</br>
+</br>
 
-#### Connect with me:
-<!-- [<img align="left" alt="mudriyilya | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-[<img align="left" alt="mudriyilya | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mudriyilya | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/facebook.svg" />][facebook]
-<br />
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat&logo=apple&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
-#### Languages and Tools:
-[<img align="left" alt="Swift" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/swift.svg" />][iOS-Swift]
-[<img align="left" alt="Xcode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/xcode.svg" />][Xcode]
-[<img align="left" alt="iOS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/ios.svg" />][iOS-Developer]
-[<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/github.svg" />][github]
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
 
-<br />
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+</br>
 
-[instagram]: https://instagram.com/mudriy.ilya
-<!-- [linkedin]: https://linkedin.com/in/??? -->
-[facebook]: https://www.facebook.com/mudriy.ilya
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MudriyIlya&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MudriyIlya&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MudriyIlya&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-[iOS-Swift]: https://developer.apple.com/swift
-[Xcode]: https://developer.apple.com/xcode/ide
-[iOS-Developer]: https://developer.apple.com/ios
-[github]: https://github.com/MudriyIlya
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MudriyIlya&theme=default&no-frame=true&no-bg=false&margin-w=4)
