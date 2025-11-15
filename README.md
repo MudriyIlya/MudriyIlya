@@ -4,7 +4,7 @@
 🤓 Interested in iOS Development and learning how things work in Swift</br>
 🌱 Currently learning how to contribute in open source</br>
 💀 I'm not afraid to dive deep into, whether it's MachO parsing or boost up system performance</br>
-🤝🏻 Looking to collaborate with other Developers, so feel free to contact me (links in my bio 👈)</br>
+🤝🏻 Looking to collaborate with other Developers, so feel free to contact me (links in my bio)</b>
 </br>
 
 ### 🧩 Fun Facts:
