@@ -26,10 +26,3 @@
 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-</br>
-</br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MudriyIlya&theme=system&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MudriyIlya&theme=system&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MudriyIlya&theme=system&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
